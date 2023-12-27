@@ -24,7 +24,7 @@ public class TryCatchBlock {
 		
 // This is how we can catch the problem in code // It could be read data from excel file for instance User name and Password
 		try {
-			arreTwo.set(4, "Chano");
+			arreTwo.set(2, "Saamia");
 
 		} catch (Exception e) {
 			System.out.println(e +  "  **This step is not implimented**");		}
